@@ -22,7 +22,7 @@ This project is a simple public API built with **PHP** that returns basic inform
 This API is intended for educational purposes and as a demonstration of how to build and deploy a simple **PHP** application. It can be used as a starting point for more complex projects or as a reference for learning how to create RESTful APIs with PHP.
 
 ## How to Access
-The API is deployed and publicly accessible at: **[Your Render Deployment URL]**
+The API is deployed and publicly accessible at: https://hng12-stage0-task-yl0h.onrender.com
 
 ### Example Response
 ```json
@@ -62,7 +62,7 @@ To get started with this project, follow the setup instructions provided below t
    ```
 
 ## Deployment
-The API is deployed at: **[Your Render Deployment URL]**
+The API is deployed at: https://hng12-stage0-task-yl0h.onrender.com
 
 ### Deploying to Render
 To deploy the API on **Render**, follow these steps:
@@ -107,7 +107,7 @@ You can test the API using a web browser, **curl**, or a tool like **Postman**.
 
 #### Using curl
 ```bash
-curl [Your Render Deployment URL]
+curl [https://hng12-stage0-task-yl0h.onrender.com]
 ```
 
 #### Using Postman
